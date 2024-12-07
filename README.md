@@ -6,6 +6,8 @@ To use it, simply click on the grid to place the start and end points, draw wall
 
 To get started, clone the repository, install Pygame with pip install pygame, and run the script with Python.
 
+
+
 Below are the controls for interacting with the Pathfinding Algorithm Visualizer. Use these keys to select algorithms, run visualizations, and reset the grid:
 
 D Key: Selects Dijkstra's Algorithm. This is a guaranteed shortest-path algorithm that explores all possible paths in an optimal way.
